@@ -1,0 +1,12 @@
+# Ignore the heavy stuff
+node_modules/
+dist/
+build/
+
+# Ignore your private secrets (NEVER upload these)
+.env
+.env.local
+
+# Ignore system junk
+.DS_Store
+Thumbs.db
